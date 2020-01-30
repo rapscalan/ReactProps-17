@@ -1,0 +1,21 @@
+.Header {
+  background-color: rgb(23,233,33);
+
+  h1 {
+    text-decoration: bold;
+  }
+}
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.Footer {
+  background-color: rgb(34,222,222);
+}
+body, footer, h1{
+  margin: 0 auto;
+  text-align: center;
+
+}
