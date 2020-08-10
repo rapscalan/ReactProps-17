@@ -1,6 +1,7 @@
 .Header {
   background-color: rgb(23,233,33);
-
+  font-size: 3em;
+  color: white;
   h1 {
     text-decoration: bold;
   }
@@ -12,7 +13,8 @@ body {
   align-items: flex-start;
 }
 .Footer {
-  background-color: rgb(34,222,222);
+  background-color: rgb(81, 83, 211);
+  color: white;
 }
 body, footer, h1{
   margin: 0 auto;

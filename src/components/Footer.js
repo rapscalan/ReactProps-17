@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <footer className={styles.Footer}>
-        madlib by Zak
+        madlib
       </footer>
     );
   }

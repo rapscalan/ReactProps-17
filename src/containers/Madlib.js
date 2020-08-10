@@ -40,7 +40,8 @@ export default class Madlib extends Component{
         state.inputs['7'],
         state.inputs['8'],
         state.inputs['9'],
-        state.inputs['10']
+        state.inputs['10'],
+        state.inputs['11']
       ]
 
     }));
